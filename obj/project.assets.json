@@ -3232,11 +3232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+      "projectUniqueName": "c:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
       "projectName": "MeuSiteEmMVC",
-      "projectPath": "C:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+      "projectPath": "c:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
       "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
+      "outputPath": "c:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3306,7 +3306,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "MeuSiteEmMVC depends on Microsoft.EntityFrameworkCore (>= 6.4.4) but Microsoft.EntityFrameworkCore 6.4.4 was not found. An approximate best match of Microsoft.EntityFrameworkCore 7.0.0 was resolved.",
+      "message": "MeuSiteEmMVC depende de Microsoft.EntityFrameworkCore (>= 6.4.4), mas Microsoft.EntityFrameworkCore 6.4.4 não foi encontrado. A melhor correspondência aproximada de Microsoft.EntityFrameworkCore 7.0.0 foi resolvida.",
       "libraryId": "Microsoft.EntityFrameworkCore",
       "targetGraphs": [
         "net7.0"

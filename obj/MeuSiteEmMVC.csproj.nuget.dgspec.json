@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {}
+    "c:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {
+    "c:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+        "projectUniqueName": "c:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
         "projectName": "MeuSiteEmMVC",
-        "projectPath": "C:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+        "projectPath": "c:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
         "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
+        "outputPath": "c:\\Users\\Christian\\Desktop\\DIO\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",

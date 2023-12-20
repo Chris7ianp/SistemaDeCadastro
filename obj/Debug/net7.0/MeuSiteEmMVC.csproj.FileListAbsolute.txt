@@ -69,3 +69,4 @@ c:\Users\Christian\Desktop\DIO\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net7.0\refint
 c:\Users\Christian\Desktop\DIO\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net7.0\MeuSiteEmMVC.pdb
 c:\Users\Christian\Desktop\DIO\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net7.0\MeuSiteEmMVC.genruntimeconfig.cache
 c:\Users\Christian\Desktop\DIO\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net7.0\ref\MeuSiteEmMVC.dll
+C:\Users\Christian\Desktop\DIO\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net7.0\MeuSiteEmMVC.sourcelink.json
